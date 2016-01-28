@@ -10,7 +10,8 @@ import java.util.Scanner;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.print("Enter your choice: ");
+       //456456q
+	System.out.print("Enter your choice: ");
         Scanner scanner = new Scanner(System.in);
         String player = scanner.nextLine();
         PlayerChoice player1 = new PlayerChoice();
@@ -20,3 +21,4 @@ public class Test {
         System.out.println(compareChoices.getWinner());
     }
 }
+
