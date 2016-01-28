@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class Test {
     public static void main(String[] args) {
-       //456456q
+       
 	System.out.print("Enter your choice: ");
         Scanner scanner = new Scanner(System.in);
         String player = scanner.nextLine();

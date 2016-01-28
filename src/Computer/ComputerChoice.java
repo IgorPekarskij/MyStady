@@ -3,7 +3,7 @@ package Computer;
 import java.util.Random;
 
 public class ComputerChoice {
-    protected String computerChoce; //В переменной сохраняется значение выбранное компьютером
+    protected String computerChoce; //В переменной сохраняется значение 225 выбранное компьютером
     protected final String[] value = {"Rock", "Paper", "Scissors"};
 
     public ComputerChoice() {
